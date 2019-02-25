@@ -9,7 +9,7 @@ A lightweight node.js module for retrieving and scraping ads from [Kijiji](http:
 ## Dependencies
 * [node.js](http://github.com/joyent/node) - evented I/O for the backend
 * [cheerio](http://www.github.com/cheeriojs/cheerio) - jQuery-like API for the server
-* [node-fetch](https://github.com/bitinn/node-fetch) - [Fetch](https://fetch.spec.whatwg.org) API implementation for Node.Js
+* [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - [Fetch](https://fetch.spec.whatwg.org) API implementation for Node.Js or the browser
 
 ## Installation
 `npm install kijiji-scraper`
